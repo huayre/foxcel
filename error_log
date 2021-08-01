@@ -1,0 +1,136 @@
+[19-Apr-2017 21:52:26 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1066): FPDF->Error('Some data has a...')
+#1 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1002): FPDF->_checkoutput()
+#2 /home/osaerp/public_html/desarrollo/lamibl/system/application/controllers/maestros/configuracionimpresion.php(553): FPDF->Output('I', 'temporal/Impres...')
+#3 [internal function]: Configuracionimpresion->impresionDocumento('2', '8', '1', 'V')
+#4 /home/osaerp/public_html/desarrollo/lamibl/system/codeigniter/CodeIgniter.php(471): call_user_func_array(Array, Array)
+#5 /home/osaerp/public_html/desarrollo/lamibl/index.php(229): require_once('/home/osaerp/pu...')
+#6 {main}
+  thrown in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php on line 271
+[20-Apr-2017 17:23:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1066): FPDF->Error('Some data has a...')
+#1 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1002): FPDF->_checkoutput()
+#2 /home/osaerp/public_html/desarrollo/lamibl/system/application/controllers/maestros/configuracionimpresion.php(555): FPDF->Output('I', 'temporal/Impres...')
+#3 [internal function]: Configuracionimpresion->impresionDocumento('11', '1', '0', 'V')
+#4 /home/osaerp/public_html/desarrollo/lamibl/system/codeigniter/CodeIgniter.php(471): call_user_func_array(Array, Array)
+#5 /home/osaerp/public_html/desarrollo/lamibl/index.php(229): require_once('/home/osaerp/pu...')
+#6 {main}
+  thrown in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php on line 271
+[20-Apr-2017 17:23:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1066): FPDF->Error('Some data has a...')
+#1 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1002): FPDF->_checkoutput()
+#2 /home/osaerp/public_html/desarrollo/lamibl/system/application/controllers/maestros/configuracionimpresion.php(555): FPDF->Output('I', 'temporal/Impres...')
+#3 [internal function]: Configuracionimpresion->impresionDocumento('10', '1', '0', 'V')
+#4 /home/osaerp/public_html/desarrollo/lamibl/system/codeigniter/CodeIgniter.php(471): call_user_func_array(Array, Array)
+#5 /home/osaerp/public_html/desarrollo/lamibl/index.php(229): require_once('/home/osaerp/pu...')
+#6 {main}
+  thrown in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php on line 271
+[20-Apr-2017 17:23:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1066): FPDF->Error('Some data has a...')
+#1 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1002): FPDF->_checkoutput()
+#2 /home/osaerp/public_html/desarrollo/lamibl/system/application/controllers/maestros/configuracionimpresion.php(555): FPDF->Output('I', 'temporal/Impres...')
+#3 [internal function]: Configuracionimpresion->impresionDocumento('8', '1', '1', 'V')
+#4 /home/osaerp/public_html/desarrollo/lamibl/system/codeigniter/CodeIgniter.php(471): call_user_func_array(Array, Array)
+#5 /home/osaerp/public_html/desarrollo/lamibl/index.php(229): require_once('/home/osaerp/pu...')
+#6 {main}
+  thrown in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php on line 271
+[20-Apr-2017 17:24:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1066): FPDF->Error('Some data has a...')
+#1 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1002): FPDF->_checkoutput()
+#2 /home/osaerp/public_html/desarrollo/lamibl/system/application/controllers/maestros/configuracionimpresion.php(555): FPDF->Output('I', 'temporal/Impres...')
+#3 [internal function]: Configuracionimpresion->impresionDocumento('10', '1', '0', 'V')
+#4 /home/osaerp/public_html/desarrollo/lamibl/system/codeigniter/CodeIgniter.php(471): call_user_func_array(Array, Array)
+#5 /home/osaerp/public_html/desarrollo/lamibl/index.php(229): require_once('/home/osaerp/pu...')
+#6 {main}
+  thrown in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php on line 271
+[20-Apr-2017 17:39:26 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1066): FPDF->Error('Some data has a...')
+#1 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1002): FPDF->_checkoutput()
+#2 /home/osaerp/public_html/desarrollo/lamibl/system/application/controllers/maestros/configuracionimpresion.php(555): FPDF->Output('I', 'temporal/Impres...')
+#3 [internal function]: Configuracionimpresion->impresionDocumento('11', '1', '0', 'V')
+#4 /home/osaerp/public_html/desarrollo/lamibl/system/codeigniter/CodeIgniter.php(471): call_user_func_array(Array, Array)
+#5 /home/osaerp/public_html/desarrollo/lamibl/index.php(229): require_once('/home/osaerp/pu...')
+#6 {main}
+  thrown in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php on line 271
+[20-Apr-2017 17:39:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1066): FPDF->Error('Some data has a...')
+#1 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1002): FPDF->_checkoutput()
+#2 /home/osaerp/public_html/desarrollo/lamibl/system/application/controllers/maestros/configuracionimpresion.php(555): FPDF->Output('I', 'temporal/Impres...')
+#3 [internal function]: Configuracionimpresion->impresionDocumento('11', '1', '0', 'V')
+#4 /home/osaerp/public_html/desarrollo/lamibl/system/codeigniter/CodeIgniter.php(471): call_user_func_array(Array, Array)
+#5 /home/osaerp/public_html/desarrollo/lamibl/index.php(229): require_once('/home/osaerp/pu...')
+#6 {main}
+  thrown in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php on line 271
+[20-Apr-2017 17:39:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1066): FPDF->Error('Some data has a...')
+#1 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1002): FPDF->_checkoutput()
+#2 /home/osaerp/public_html/desarrollo/lamibl/system/application/controllers/maestros/configuracionimpresion.php(555): FPDF->Output('I', 'temporal/Impres...')
+#3 [internal function]: Configuracionimpresion->impresionDocumento('11', '1', '0', 'V')
+#4 /home/osaerp/public_html/desarrollo/lamibl/system/codeigniter/CodeIgniter.php(471): call_user_func_array(Array, Array)
+#5 /home/osaerp/public_html/desarrollo/lamibl/index.php(229): require_once('/home/osaerp/pu...')
+#6 {main}
+  thrown in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php on line 271
+[20-Apr-2017 17:39:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1066): FPDF->Error('Some data has a...')
+#1 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1002): FPDF->_checkoutput()
+#2 /home/osaerp/public_html/desarrollo/lamibl/system/application/controllers/maestros/configuracionimpresion.php(555): FPDF->Output('I', 'temporal/Impres...')
+#3 [internal function]: Configuracionimpresion->impresionDocumento('8', '1', '1', 'V')
+#4 /home/osaerp/public_html/desarrollo/lamibl/system/codeigniter/CodeIgniter.php(471): call_user_func_array(Array, Array)
+#5 /home/osaerp/public_html/desarrollo/lamibl/index.php(229): require_once('/home/osaerp/pu...')
+#6 {main}
+  thrown in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php on line 271
+[20-Apr-2017 17:39:52 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1066): FPDF->Error('Some data has a...')
+#1 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1002): FPDF->_checkoutput()
+#2 /home/osaerp/public_html/desarrollo/lamibl/system/application/controllers/maestros/configuracionimpresion.php(555): FPDF->Output('I', 'temporal/Impres...')
+#3 [internal function]: Configuracionimpresion->impresionDocumento('3', '1', '0', 'V')
+#4 /home/osaerp/public_html/desarrollo/lamibl/system/codeigniter/CodeIgniter.php(471): call_user_func_array(Array, Array)
+#5 /home/osaerp/public_html/desarrollo/lamibl/index.php(229): require_once('/home/osaerp/pu...')
+#6 {main}
+  thrown in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php on line 271
+[20-Apr-2017 17:40:46 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1066): FPDF->Error('Some data has a...')
+#1 /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php(1002): FPDF->_checkoutput()
+#2 /home/osaerp/public_html/desarrollo/lamibl/system/application/controllers/maestros/configuracionimpresion.php(555): FPDF->Output('I', 'temporal/Impres...')
+#3 [internal function]: Configuracionimpresion->impresionDocumento('10', '1', '0', 'V')
+#4 /home/osaerp/public_html/desarrollo/lamibl/system/codeigniter/CodeIgniter.php(471): call_user_func_array(Array, Array)
+#5 /home/osaerp/public_html/desarrollo/lamibl/index.php(229): require_once('/home/osaerp/pu...')
+#6 {main}
+  thrown in /home/osaerp/public_html/desarrollo/lamibl/system/application/libraries/fpdf/fpdf.php on line 271
+[16-Sep-2017 16:05:01 UTC] PHP Fatal error:  Call to a member function order_by() on a non-object in /home/osaerp/public_html/desarrollo/lamibl/system/application/models/tesoreria/banco_model.php on line 27
+[16-Sep-2017 16:05:04 UTC] PHP Fatal error:  Call to a member function order_by() on a non-object in /home/osaerp/public_html/desarrollo/lamibl/system/application/models/tesoreria/banco_model.php on line 27
+[16-Sep-2017 16:05:18 UTC] PHP Fatal error:  Call to a member function order_by() on a non-object in /home/osaerp/public_html/desarrollo/lamibl/system/application/models/tesoreria/banco_model.php on line 27
+[16-Sep-2017 16:05:42 UTC] PHP Fatal error:  Call to a member function order_by() on a non-object in /home/osaerp/public_html/desarrollo/lamibl/system/application/models/tesoreria/banco_model.php on line 27
+[14-Nov-2017 15:20:56 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/osaerp/public_html/desarrollo/inycon/system/application/libraries/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/osaerp/public_html/desarrollo/inycon/system/application/libraries/fpdf/fpdf.php(1066): FPDF->Error('Some data has a...')
+#1 /home/osaerp/public_html/desarrollo/inycon/system/application/libraries/fpdf/fpdf.php(1002): FPDF->_checkoutput()
+#2 /home/osaerp/public_html/desarrollo/inycon/system/application/controllers/maestros/configuracionimpresion.php(561): FPDF->Output('I', 'temporal/Impres...')
+#3 [internal function]: Configuracionimpresion->impresionDocumento('13', '14', '0', 'C')
+#4 /home/osaerp/public_html/desarrollo/inycon/system/codeigniter/CodeIgniter.php(471): call_user_func_array(Array, Array)
+#5 /home/osaerp/public_html/desarrollo/inycon/index.php(229): require_once('/home/osaerp/pu...')
+#6 {main}
+  thrown in /home/osaerp/public_html/desarrollo/inycon/system/application/libraries/fpdf/fpdf.php on line 271
+[14-Nov-2017 15:21:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/osaerp/public_html/desarrollo/inycon/system/application/libraries/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/osaerp/public_html/desarrollo/inycon/system/application/libraries/fpdf/fpdf.php(1066): FPDF->Error('Some data has a...')
+#1 /home/osaerp/public_html/desarrollo/inycon/system/application/libraries/fpdf/fpdf.php(1002): FPDF->_checkoutput()
+#2 /home/osaerp/public_html/desarrollo/inycon/system/application/controllers/maestros/configuracionimpresion.php(561): FPDF->Output('I', 'temporal/Impres...')
+#3 [internal function]: Configuracionimpresion->impresionDocumento('17', '14', '0', 'C')
+#4 /home/osaerp/public_html/desarrollo/inycon/system/codeigniter/CodeIgniter.php(471): call_user_func_array(Array, Array)
+#5 /home/osaerp/public_html/desarrollo/inycon/index.php(229): require_once('/home/osaerp/pu...')
+#6 {main}
+  thrown in /home/osaerp/public_html/desarrollo/inycon/system/application/libraries/fpdf/fpdf.php on line 271
+[23-Jan-2018 09:27:35 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/osaerp/public_html/desarrollo/inycon/system/application/views/compras/ocompra_nueva.php on line 610
+[23-Jan-2018 09:27:53 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/osaerp/public_html/desarrollo/inycon/system/application/views/compras/ocompra_nueva.php on line 610
